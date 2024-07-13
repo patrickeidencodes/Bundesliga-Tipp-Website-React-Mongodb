@@ -1,6 +1,6 @@
 # Bundesliga-Tipp-Website-React-Mongodb 2022
 
-This project is a betting website for the Bundesliga, created so that my viewers could compete against each other and an AI in predicting match outcomes. This was my first project using React and MongoDB. Previously, I worked with SQL.
+This project is a betting website for the Bundesliga, created so that my viewers could compete against each other and an AI in predicting match outcomes. This was my first project using React and MongoDB in combination. Previously, I worked with SQL and PHP.
 
 ## Project Description
 
